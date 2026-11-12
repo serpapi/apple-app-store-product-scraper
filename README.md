@@ -527,7 +527,7 @@ Use SerpApi APIs without writing code:
 - Track the ratings, rating distribution, and price of your app and competing apps.
 - Follow how often competitors release updates, and what their release notes say.
 - Compare the privacy labels of apps in a category.
-- Build app detail pages with icons, screenshots, descriptions, and compatibility.
+- Compare the in-app purchases, size, and compatibility of competing apps.
 - Discover similar apps and other apps by the same developer.
 - Give AI agents and RAG pipelines detailed app information.
 
